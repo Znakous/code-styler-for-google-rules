@@ -3,7 +3,7 @@
   "publisher":"Znakous",
   "displayName": "Code_styler_for_Google_rules",
   "description": "Styles all consts' and functions' names according to \"Google C++ Style Guide\" rules for funcs and consts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.94.0"
   },
