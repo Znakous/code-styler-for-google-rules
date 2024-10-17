@@ -1,4 +1,4 @@
-# Code_Styler_For_Google_rules
+# Code_Styler_For_Google_rules (Znak Vladislav M3102)
 Styles all consts' and functions' names according to "Google C++ Style Guide" rules of naming functions and constants
 Can be used on C++ source and header files by clicking Ctrl+Alt+L (a. k. a. Clion auto formatting)
 # Functionality
@@ -17,7 +17,7 @@ smth_declared_outside;
 _____________________________________________________________________
 // Your code was formated to follow the "Google C++ Style Guide" rules of naming functions and constants
 const int kSimpleIntegerNumber = 52;
-const std::string kOmgItIsAString = "Yes, it is. Never mind, 52";
+const std::string kOmgItIsAString = "Yes, it is. Never mind, 52";   
 const bool kAmICrazy = true;
 const char kJustA = 'a';
 bool SubstractBFromA(int a, int b){return a-b;}
